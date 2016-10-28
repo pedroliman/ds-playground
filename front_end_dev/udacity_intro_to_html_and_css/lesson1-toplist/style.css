@@ -1,0 +1,27 @@
+.description {
+	max-width: 705px;
+	padding: 20px;
+	margin: 10px;
+}
+
+.screenshot{
+	max-width: 260px;
+	padding: 20px;
+	margin: 10px;
+
+}
+
+.app{
+	display: flex;
+	padding: 20px;
+}
+
+* {
+   outline: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 

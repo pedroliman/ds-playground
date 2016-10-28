@@ -1,0 +1,61 @@
+TITLE by YOUR_NAME_HERE
+========================================================
+
+```{r packages}
+# Load all of the packages that you end up using
+# in your analysis in this code chunk.
+library(ggplot2)
+```
+
+
+# Analysis
+
+### Load the Data
+
+```{r Load_the_Data}
+
+```
+
+### Summary of the Data Set
+```{r Summary}
+
+```
+
+
+### What do you know about individual variables in the data set?
+
+
+### What do you know about the relationships between any two variables?
+
+
+### What do you know by analyzing three or more variables?
+
+
+------
+
+# Final Plots and Summary
+
+### Plot One
+```{r Plot_One}
+
+```
+
+### Description One
+
+
+### Plot Two
+```{r Plot_Two}
+
+```
+
+### Description Two
+
+
+### Plot Three
+```{r Plot_Three}
+
+```
+
+------
+
+# Reflection
